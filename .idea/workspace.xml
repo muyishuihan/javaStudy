@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3abd53c9-1821-4d63-adb0-f6108bbf6df3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsThis/Weapon2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsThis/Weapon2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsPackage/primaryWeapon/buLaMa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsPackage/primaryWeapon/jueLu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsPackage/warframe/mag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsPackage/warframe/volt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsPackage/warframe/warframe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,36 +26,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectTransferParameters/Warframe1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/warframe/Warframe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectTransferParameters/Warframe3.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/warframe/Volt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-51">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="16" />
-              <folding>
-                <element signature="e#548#549#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="57">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/warframe/Mag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/weapon/mianWeapon/JueLu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/phantom/VoltPhantom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/weapon/meleeWeapon/HuangGuai.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/phantom/MagPhantom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/weapon/Weapon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectTransferParameters/Warframe4.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/phantom/Phantom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/illustriousWeapon/IllustriousSword.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -105,6 +165,11 @@
         <option value="$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectTransferParameters/Warframe1.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectTransferParameters/Warframe3.java" />
         <option value="$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectTransferParameters/Warframe4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectPackage/warframe/warframe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectPackage/warframe/volt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsPackage/warframe/volt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/phantom/magPhantom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/weapon/Weapon.java" />
       </list>
     </option>
   </component>
@@ -132,9 +197,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="37" />
-    <option name="width" value="1294" />
+    <option name="x" value="847" />
+    <option name="y" value="81" />
+    <option name="width" value="982" />
     <option name="height" value="698" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -142,6 +207,7 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -178,6 +244,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
+              <item name="yxhan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
+              <item name="yxhan" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -186,8 +271,84 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
+              <item name="yxhan" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassesAndObjectTransferParameters" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassesAndObjectsAccessModifier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
+              <item name="yxhan" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassesAndObjectsAccessModifier" type="462c0819:PsiDirectoryNode" />
+              <item name="illustriousWeapon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
+              <item name="yxhan" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassesAndObjectsAccessModifier" type="462c0819:PsiDirectoryNode" />
+              <item name="phantom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
+              <item name="yxhan" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassesAndObjectsAccessModifier" type="462c0819:PsiDirectoryNode" />
+              <item name="warframe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
+              <item name="yxhan" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassesAndObjectsAccessModifier" type="462c0819:PsiDirectoryNode" />
+              <item name="weapon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
+              <item name="yxhan" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassesAndObjectsAccessModifier" type="462c0819:PsiDirectoryNode" />
+              <item name="weapon" type="462c0819:PsiDirectoryNode" />
+              <item name="meleeWeapon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="top" type="462c0819:PsiDirectoryNode" />
+              <item name="yxhan" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassesAndObjectsAccessModifier" type="462c0819:PsiDirectoryNode" />
+              <item name="weapon" type="462c0819:PsiDirectoryNode" />
+              <item name="mianWeapon" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,6 +361,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../javaProject/mydemo" />
@@ -223,7 +385,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Warframe4">
+  <component name="RunManager" selected="Application.MagPhantom">
+    <configuration name="MagPhantom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.yxhan.demo.ClassesAndObjectsAccessModifier.phantom.MagPhantom" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.yxhan.demo.ClassesAndObjectsAccessModifier.phantom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Warframe1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top.yxhan.demo.ClassesAndObjectTransferParameters.Warframe1" />
       <module name="demo" />
@@ -276,19 +451,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Weapon2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="top.yxhan.demo.ClassesAndObjectsThis.Weapon2" />
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top.yxhan.demo.ClassesAndObjectsThis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Weapon3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="top.yxhan.demo.ClassesAndObjectsThis.Weapon3" />
       <module name="demo" />
@@ -311,11 +473,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MagPhantom" />
         <item itemvalue="Application.Warframe4" />
         <item itemvalue="Application.Warframe3" />
         <item itemvalue="Application.Warframe1" />
         <item itemvalue="Application.Weapon3" />
-        <item itemvalue="Application.Weapon2" />
       </list>
     </recent_temporary>
   </component>
@@ -335,18 +497,18 @@
       <workItem from="1592301212491" duration="18686000" />
       <workItem from="1592551279199" duration="623000" />
       <workItem from="1592552172286" duration="1391000" />
-      <workItem from="1592553605460" duration="92794000" />
+      <workItem from="1592553605460" duration="101439000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138961000" />
+    <option name="totallyTimeSpent" value="147606000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27831715" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -357,7 +519,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.32903227" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2283105" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.19863014" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.18669528" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -499,13 +661,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsConstructor/Weapon1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-437">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsThis/Weapon3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
@@ -542,14 +697,126 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsConstructor/Weapon1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsPackage/primaryWeapon/buLaMa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectTransferParameters/Warframe4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="26" />
           <folding>
             <element signature="e#389#390#0" expanded="true" />
             <element signature="e#442#443#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsPackage/warframe/warframe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsPackage/warframe/volt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsPackage/primaryWeapon/jueLu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsPackage/warframe/mag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/warframe/Warframe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/warframe/Volt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/warframe/Mag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/weapon/mianWeapon/JueLu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/phantom/VoltPhantom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/weapon/meleeWeapon/HuangGuai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/illustriousWeapon/IllustriousSword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/phantom/MagPhantom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/weapon/Weapon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/top/yxhan/demo/ClassesAndObjectsAccessModifier/phantom/Phantom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
